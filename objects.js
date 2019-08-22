@@ -1,4 +1,3 @@
 var playlist = {artist: 'Wretch 32'};
 
-var updatePlaylist = playlist
-playlist.artist = ['Michael Jackson']
+var updatePlaylist = Object.assign({}, playlist, {artist['Michael Jackson']})
