@@ -1,1 +1,1 @@
-var playlist {artist: 'Wretch 32'};
+var playlist = {artist: 'Wretch 32'};
